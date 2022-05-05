@@ -7,8 +7,8 @@ email message, it will automatically flag it as spam or not, based on the predic
 <br>
 Team Members:
 
-1. Himanshu Kumar 
-2. Rahul Ramaswamy
+1. Rahul Ramaswamy
+2. Himanshu Kumar  
 
 
 <br>
